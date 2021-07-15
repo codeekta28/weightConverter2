@@ -1,0 +1,1 @@
+Learned Js If(condition)ie if(input contains anything ie NaN,null,undefined,"",false)then it will not run,will only be true if thesconditions are not present
